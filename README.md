@@ -6,8 +6,6 @@ A clean, modern developer portfolio built with React. Edit one content file, swa
 
 ![Hero section in dark mode](screenshots/02-hero-dark.png)
 
-▶ [Watch the 53-second walkthrough](screenshots/portfolio-demo.mp4)
-
 > **This repository is the preview and documentation.** The source code is included with the template, available on [Gumroad](https://wafabenmiloud.gumroad.com/l/portfolio).
 
 ## Who it's for
